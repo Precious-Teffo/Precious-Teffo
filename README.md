@@ -12,7 +12,7 @@ This repository showcases my personal projects, skills, and experiences as a rec
 
 Projects
 Cybersecurity project
-- https://Github.com/Precious-Teffo /Honeypot
+- https://Github.com/Precious-Teffo /Honeypot-setup
 - https://Github.com/Precious-Teffo/2FA-System 
 
 *Other Projects*
