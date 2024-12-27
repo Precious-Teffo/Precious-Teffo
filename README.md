@@ -14,7 +14,8 @@ Projects
 Cybersecurity project
 - https://Github.com/Precious-Teffo/Honeypot-setup
 - https://Github.com/Precious-Teffo/2FA-System
-- 
+- https://Github.com/Precious-Teffo/ToDoList
+- https://Github.com/Precious-Teffo/personalFinanceManager
 
 *Other Projects*
 -https://Github.com/Precious-Teffo/User-Management
