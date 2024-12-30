@@ -10,12 +10,13 @@ Personal Portfolio
 About
 This repository showcases my personal projects, skills, and experiences as a recent Information Technology (Software Development) graduate and passionate about cybersecurity .
 
-Projects
-Cybersecurity project
+Projects project
 - https://Github.com/Precious-Teffo/Honeypot-setup
 - https://Github.com/Precious-Teffo/2FA-System
 - https://Github.com/Precious-Teffo/ToDoList
 - https://Github.com/Precious-Teffo/personalFinanceManager
+- https://Github.com/Precious-Teffo/Personal-Portfolio
+- https://Github.com/Precious-Teffo/ToDoList
 
 *Other Projects*
 -https://Github.com/Precious-Teffo/User-Management
@@ -24,7 +25,7 @@ Cybersecurity project
 
 
 Skills
-- Programming languages: HTML, CSS, JavaScript, PHP and Java 
+- Programming languages: HTML, CSS, JavaScript, PHP, SQL and Java 
 - Technologies: [list technologies]
 - Tools: Netbeans IDE and  and Java Runtime Environment (JRE) 8 or later
 
