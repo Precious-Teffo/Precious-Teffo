@@ -17,6 +17,7 @@ Projects project
 - https://Github.com/Precious-Teffo/personalFinanceManager
 - https://Github.com/Precious-Teffo/Personal-Portfolio
 - https://Github.com/Precious-Teffo/ToDoList
+- https://Github.com/Precious-Teffo/Wallet-wise
 
 *Other Projects*
 -https://Github.com/Precious-Teffo/User-Management
