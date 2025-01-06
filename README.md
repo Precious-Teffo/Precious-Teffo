@@ -25,7 +25,7 @@ Projects project
 -https://www.Github.com/Precious-Teffo/Temperature-converter
 -https://www.Github.com/Precious-Teffo/Password-protector
 -https://www.Github.com/Precious-Teffo/Banking-System
--https://www.Github.com/Precious-Teffo/bogging-olaform
+-https://www.Github.com/Precious-Teffo/simple-bogging-olatform
 
 Programming languages 
 -Java
