@@ -14,7 +14,11 @@ This repository showcases my personal projects, skills, and experiences as a rec
 
 Projects project
 - https://www.Github.com/Precious-Teffo/Honeypot-setup
+- https://www.Github.com/Precious-Teffo/simple-bogging-olatform
+- https://www.Github.com/Precious-Teffo/Banking-System
 - https://www.Github.com/Precious-Teffo/2FA-System
+- https://www.Github.com/Precious-Teffo/Password-protector
+- https://www.Github.com/Precious-Teffo/Temperature-converter
 - https://www.Github.com/Precious-Teffo/ToDoList
 - https://www.Github.com/Precious-Teffo/personalFinanceManager
 - https://www.Github.com/Precious-Teffo/Personal-Portfolio
@@ -22,10 +26,7 @@ Projects project
 - https://ww.Github.com/Precious-Teffo/Wallet-wise
 -https://www.Github.com/Precious-Teffo/User-Management
 -https://www.Github.com/Precious-Teffo/soduku-solver
--https://www.Github.com/Precious-Teffo/Temperature-converter
--https://www.Github.com/Precious-Teffo/Password-protector
--https://www.Github.com/Precious-Teffo/Banking-System
--https://www.Github.com/Precious-Teffo/simple-bogging-olatform
+
 
 Programming languages 
 -Java
