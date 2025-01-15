@@ -14,7 +14,7 @@ This repository showcases my personal projects, skills, and experiences as a rec
 
 Projects project
 - https://www.Github.com/Precious-Teffo/Honeypot-setup
-- https://www.github.com/Precious-Teffo/Intelligent-Traffic-Managemeny-System
+- https://www.github.com/Precious-Teffo/Intelligent-Traffic-Management-System
 - https://www.Github.com/Precious-Teffo/simple-bogging-olatform
 - https://www.Github.com/Precious-Teffo/Banking-System
 - https://www.Github.com/Precious-Teffo/2FA-System
